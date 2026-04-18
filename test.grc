@@ -37,7 +37,7 @@ blocks:
   id: variable
   parameters:
     comment: ''
-    value: int(2.3e9)
+    value: int(2.28e9)
   states:
     bus_sink: false
     bus_source: false
